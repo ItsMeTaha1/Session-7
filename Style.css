@@ -1,0 +1,11 @@
+input{
+    background-color: lightcoral;
+}
+
+input:focus{
+    background-color: rgb(255, 167, 167);
+
+}
+input:{
+    background-color: aqua;
+}

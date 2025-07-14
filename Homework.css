@@ -1,0 +1,9 @@
+input{
+    background-color:lightsalmon;
+}
+input:focus{
+        background-color: salmon;
+}
+h3{
+    color: lightseagreen;
+}
